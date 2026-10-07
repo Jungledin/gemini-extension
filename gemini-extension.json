@@ -1,0 +1,16 @@
+{
+  "name": "jungledin",
+  "version": "1.0.0",
+  "description": "Amazon & eBay seller tools for AI assistants — FBA profitability, business finance, inventory, reimbursements, and more. Connects to your own JungledIn account.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "jungledin": {
+      "httpUrl": "https://app.jungledin.com/mcp",
+      "oauth": {
+        "enabled": true,
+        "authProviderType": "dynamic_discovery"
+      },
+      "timeout": 30000
+    }
+  }
+}
