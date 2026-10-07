@@ -5,7 +5,7 @@ Remote MCP connector to JungledIn's Amazon/eBay seller tools (`https://app.jungl
 ## Install
 
 ```
-gemini extensions install https://github.com/<your-org>/<this-repo>
+gemini extensions install https://github.com/Jungledin/gemini-extension
 ```
 
 ## What's in this repo
